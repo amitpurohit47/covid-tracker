@@ -3,6 +3,13 @@
   cursor: pointer;
 }
 
+.infobox .MuiCardContent-root{
+    display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 100%;
+}
+
 .infobox:not(:last-child) {
   margin-right: 15px;
 }
