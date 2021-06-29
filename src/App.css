@@ -26,11 +26,11 @@ body{
     .app{
         flex-flow: column;
     }
-    .infobox-title{
-        font-size: 0.8rem;
+    .infobox_title{
+        font-size: 0.8rem !important;
     }
-    .infobox-cases{
-        font-size: 1.5rem;
+    .infobox_cases{
+        font-size: 1.5rem !important;
     }
 }
 
