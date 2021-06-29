@@ -12,6 +12,7 @@
 
 .infobox:not(:last-child) {
   margin-right: 15px;
+  
 }
 
 .infobox_cases {
